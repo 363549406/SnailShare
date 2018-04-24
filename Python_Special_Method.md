@@ -122,7 +122,7 @@ if __name__ == '__main__':
 *  behavior ->  `__method__`
     * x + y    ->  `__add__`
     * repr(x)  ->  `__repr__`
-    * str(x)   ->  `__str__`
+    * str(x)   ->  `__str__`
     * init()   ->  `__init__`
     * len(x)   ->  `__len__`
     * a()      ->  `__call__`
